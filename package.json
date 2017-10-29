@@ -1,0 +1,19 @@
+{
+  "name": "multimeraio",
+  "version": "0.0.1",
+  "description": "Multi-timer All In One",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "timer",
+    "chronometer",
+    "time",
+    "second",
+    "minute",
+    "hour"
+  ],
+  "author": "JosTechS",
+  "license": "ISC"
+}
